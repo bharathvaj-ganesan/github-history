@@ -1,6 +1,6 @@
 #!/bin/sh
 
-months=(22 19 04 01)
+months=(25)
 
 for m in ${months[@]};
 do 
