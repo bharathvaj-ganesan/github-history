@@ -1,6 +1,6 @@
 #!/bin/sh
 
-months=(27)
+months=(2)
 
 for m in ${months[@]};
 do 
