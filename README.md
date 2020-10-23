@@ -2,7 +2,7 @@
 
 Make your Github history back to the year you love.
 
-![image](https://user-images.githubusercontent.com/11247099/89427797-38f24f80-d76e-11ea-84fa-ab5642751792.png)
+![image](https://user-images.githubusercontent.com/16360498/97034686-e9f4d300-1582-11eb-8f0b-6b98fc103d90.png)
 
 ## Travel Back
 
