@@ -14,4 +14,4 @@ Run the following script
 $ sh -c "$(curl -fsSL https://raw.github.com/bharathvaj-ganesan/github-history/master/history.sh)"
 ```
 
-Just enter your newly created repository name, username and the year you want to a make a commit. You are done :)
+Just enter your newly created repo name, username and the year you want to a make a commit. You are done :)
